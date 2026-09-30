@@ -1,0 +1,6 @@
+{
+  "name": "TruthLens",
+  "description": "AI-powered news claim verification and fact-checking engine with multimodal analysis and Google Search grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
